@@ -1,0 +1,82 @@
+# 📊 Individual Progress Scorecard
+
+## Daily Training Log
+
+**Date:** 2026-03-04 | **Training Day:** ___/180 (or ___/90 for 3-month plan)
+
+### 1. Time Investment
+
+- [/] Training time today: 2.5 hours
+- [ ] Goal met? (Yes/No)
+- [ ] Consistency streak: 0 days
+
+**Points:**
+
+- 2+ hours = 10 points
+- 1-2 hours = 5 points
+- <1 hour = 2 points
+- Missed day = 0 points (streak resets)
+
+### 2. Challenge Completion
+
+| Difficulty      | Challenges Solved | Points Earned |
+| --------------- | ----------------- | ------------- |
+| Easy            |   6   × 5 pts     |  30           |
+| Medium          | _____ × 15 pts    | _____         |
+| Hard            | _____ × 30 pts    | _____         |
+| Expert          | _____ × 50 pts    | _____         |
+| **Daily Total** |                   | **_____**     |
+
+### 3. Quality Indicators
+
+- [/] Created writeup for at least 1 challenge (+10 pts)
+- [ ] Reviewed 3+ writeups from others (+5 pts)
+- [ ] Learned new technique/tool (+10 pts)
+- [ ] Updated cheat sheet (+5 pts)
+- [ ] Practiced timed challenge (+5 pts)
+
+**Quality Points Total:** 40
+
+### 4. Category Focus Today
+
+Which categories did you practice?
+
+- [ ] Web Exploitation
+- [/] Binary Exploitation / Pwn
+- [ ] Cryptography
+- [ ] Reverse Engineering
+- [ ] Forensics
+- [ ] OSINT
+- [ ] Other: ___________
+
+**Primary Specialty:** 150 minutes
+
+**Secondary Specialty:** _____ minutes
+
+**Other Categories:** _____ minutes
+
+### 5. Reflection (Qualitative)
+
+**What went well today?**
+
+I solved levels 13-18 in OverTheWire Bandit,
+especially in Level 13 by placing the rsa private
+key into notepad++ and saved it in the C: file, users,
+username file, and placed it as a private keyfile using
+(name).private. After doing that, i ran the ssh key and
+located the file and I finally entered level 14.
+
+**What challenged you?**
+
+What challenged me is the Level 16 where I had a
+similar problem with Level 13 but i remembered that
+i can open the file using notepad++ and locating it
+
+**Key learning:**
+
+You can use notepad++ and save it for ssh location
+to the next level
+
+**Tomorrow's focus:**
+
+To finish overthewire bandit
